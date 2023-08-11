@@ -1,5 +1,3 @@
-# selenium_tasks_python
-
 # LinkedIn Connection Automation Script Documentation
 
 ## Description
