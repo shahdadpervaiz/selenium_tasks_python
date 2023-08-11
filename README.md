@@ -32,5 +32,9 @@ It logs into your LinkedIn account,searches for a specific keyword persons, and 
 - Use this script responsibly and follow LinkedIn's terms of use. Excessive and inappropriate use may result in account suspension.
 
 ## Author
-- [SHAHDAD PERVEZ SHARIF]
-- [shahdadpervaiz@hotmail.com]
+- SHAHDAD PERVEZ SHARIF
+- shahdadpervaiz@hotmail.com
+
+## Note
+- Browsers and Selenium Web-drivers are updating everyday, which results in code crash and change in parameters,
+  make sure to install the compatible versions,and check the updated parameters.
